@@ -1,9 +1,9 @@
 # Ultimate Joke Generator
 
 A lightweight web application that generates random jokes in real time using a public API.  
-Built as part of a **System Analysis** lecture to demonstrate front-end architecture, API integration, and client-side state management.
+Built as part of a **System Analysis** lecture to demonstrate front end architecture, API integration, and client-side state management.
 
-🔗 **Live Demo:**  
+**Live Demo:**  
 https://sharmarke-mohamed-ib.github.io/Ultimate-joke-generator/
 
 ---
@@ -51,7 +51,7 @@ No backend or database is required, making the system easy to deploy and maintai
 
 ## Features
 
-- Real-time joke generation via API
+- Real time joke generation via API
 - Dark mode toggle
 - LocalStorage support for saving jokes
 - Animated particle background
@@ -84,7 +84,7 @@ Author:
 Sharmarke Mohamed Ibrahim
 Computer Engineering Student
 
-📄 License:
+License:
 
 This project is for educational purposes.
    
